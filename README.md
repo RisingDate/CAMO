@@ -1,5 +1,6 @@
 # CAMO: An Agentic Framework for Automated Causal Discovery from Micro Behaviors to Macro Emergence in LLM Agent Simulations
 
+[English](README.md) | [简体中文](README_zh.md)
 
 ## 📖 Introduction
 
